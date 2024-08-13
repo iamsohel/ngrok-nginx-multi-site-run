@@ -1,8 +1,8 @@
 # Run multi-site application with a single Ngrok address
 
-### Run FE application in 9000 or any port and change that port in nginx
+### Run FE application in 9000 or any port and change that port in nginx.conf file
 
-### Run BE appliation in 8002 or any port and change that port in nginx
+### Run BE appliation in 8002 or any port and change that port in nginx.conf file
 
 - run the ngrok by following command
 
